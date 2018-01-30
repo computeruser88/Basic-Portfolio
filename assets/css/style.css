@@ -41,7 +41,6 @@ header nav a {
 }
 header nav a:hover {
     color: #000000;
-    font-size: 15px;
 }
 article {
     position: relative;
@@ -169,11 +168,9 @@ hr {
 }
 .social-media-link:hover {
     opacity: .5;
-    transform: scale(1.1);
 }
 .social-media-link2:hover {
     opacity: .5;
-    transform: scale(1.1);
 }
 #bio-image {
     display: inline;

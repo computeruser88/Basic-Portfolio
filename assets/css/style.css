@@ -41,6 +41,7 @@ header nav a {
 }
 header nav a:hover {
     color: #000000;
+    font-size: 15px;
 }
 article {
     position: relative;
@@ -121,7 +122,7 @@ hr {
 }
 #portfolio img:hover {
     opacity: 0.7;
-    border: 1px #ffffff solid;
+    border: 2px #dddddd inset;
 }
 #portfolio h4 {
     background: #4aaaa5;
@@ -168,9 +169,11 @@ hr {
 }
 .social-media-link:hover {
     opacity: .5;
+    transform: scale(1.1);
 }
 .social-media-link2:hover {
     opacity: .5;
+    transform: scale(1.1);
 }
 #bio-image {
     display: inline;

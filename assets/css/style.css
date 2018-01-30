@@ -33,7 +33,7 @@ aside {
     width: 270px;
 }
 article {
-
+    
 }
 footer {
     background: #666666;
@@ -43,6 +43,10 @@ footer {
 }
 .clear {
     clear: both;
+}
+.social-media-link {
+    max-height: 100px;
+    max-width: 100px;
 }
 #main-content {
     background: #ffffff;
